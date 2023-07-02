@@ -4,6 +4,9 @@ Mailu Admin container
 This is the web-based administrative interface for the Mailu containerized
 mail server.
 
+apt install python3-pip
+pip3 download -r requirements.txt
+
 Resources
 ---------
 
